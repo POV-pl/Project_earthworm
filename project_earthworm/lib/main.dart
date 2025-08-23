@@ -20,6 +20,7 @@ import 'farmer/crop_scheduling/crop_scheduling.dart';
 import 'farmer/crop_scheduling/traditional/crop_choice.dart';
 import 'package:project_earthworm/farmer/CropAnalysisScreen.dart';
 import 'package:project_earthworm/rise.dart';
+import "";
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
