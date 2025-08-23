@@ -3,6 +3,7 @@ import 'package:intl/intl.dart';
 import 'package:confetti/confetti.dart';
 import 'dart:math';
 import 'package:vibration/vibration.dart';
+import '';
 
 class PaymentSlider extends StatefulWidget {
   final double amount;

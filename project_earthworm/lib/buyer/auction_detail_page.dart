@@ -3,6 +3,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:intl/intl.dart';
 import 'buyer_bidding_page.dart'; 
+import '';
+import '';
 
 class AuctionDetailPage extends StatelessWidget {
   final String auctionId;

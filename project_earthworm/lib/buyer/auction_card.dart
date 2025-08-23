@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'auction_detail_page.dart';
 import 'buyer_bidding_page.dart';
-
+import '';
 class AuctionCard extends StatelessWidget {
   final String auctionId;
   final Map<String, dynamic> data;
